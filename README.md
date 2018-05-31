@@ -8,7 +8,7 @@ The overall objective of this project is to clone [Buffer](https://buffer.com/).
 The first part of the objective is to develop ability to post something to a single API (Yet to be determined which social media we will be selecting).
 
 This will consistue as a MVP's objective:
-1. Set up MERN stack to handle all aspects of the project
+1. Set up [MERN stack](https://github.com/Hashnode/mern-starter) to handle all aspects of the project
 2. Create a backend to handle user's account information and API
 3. Create a usable frontend for user to post to their selected social media.
 
