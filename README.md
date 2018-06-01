@@ -8,7 +8,7 @@ The overall objective of this project is to clone [Buffer](https://buffer.com/).
 The first part of the objective is to develop ability to post something to a single API (Yet to be determined which social media we will be selecting).
 
 This will consistue as a MVP's objective:
-1. Set up MERN stack to handle all aspects of the project
+1. Set up [MERN stack](https://github.com/Hashnode/mern-starter) to handle all aspects of the project
 2. Create a backend to handle user's account information and API
 3. Create a usable frontend for user to post to their selected social media.
 
@@ -17,26 +17,13 @@ This will consistue as a MVP's objective:
 
 ### Miguel T Rivera 
 
-
 I'm interested in learning Python for data science. I'm using the MERN stack currently for the advanced FCC projects.
+I'm going to implement Marko for some of my projects instead of React.
 
-Here is my intro:
-Hi my name is Miguel T Rivera. I'm from Nor Cal (Northern California). Member of the freeCodeCamp Sacramento Meetup group.
-
-*Background*
-
-I went to school and got a B.S in Applied Computer Graphics. Its now known as Computer Animation & Game Development.
+Hi my name is Miguel T Rivera. I'm from Nor Cal (Northern California) and member of the freeCodeCamp Sacramento Meetup group.
 
 *Coding Background*
 I started with HTML in the late 90's. At a local community college, did a lot of C++, a little bit of Java and one semester of Python. Went to 4-year university to study Computer Science but I had a bad teacher, so I changed my major. In 2016, got back into programing through the freeCodeCamp program. I completed the front-end portion in Oct 2017. Currently, going through the full-stack application and data visualization certifications.
-
-*Interests*
-- Cats :cat:
-- Weight training (recently started HIIT, its brutal)
-- Pixar
-- Cartoons
-- Alternative music (Keane, The Killers, Third Eye Blind, etc.)
-- Manga
 
 *Goals*
 - Complete a team project
