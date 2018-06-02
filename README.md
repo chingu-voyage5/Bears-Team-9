@@ -39,5 +39,11 @@ Coding: I started programming when I started college. I did a semester of Java a
 I’m comfortable with git, the Linux environment, ES6, webpack, SASS. This past semester I had an algorithms and software design class using Python, so I’d be okay with using that for the project.
 
 ### Paul Shreeman 
- (NOTE:  NEED To update this bio)
+ 
+#### Team Leader for this project
 
+ Ph.D in Nanoscale Science and Engineering specializing in modeling and algorithms to model X-Ray diffraction of thin-film semiconductors.  
+ 
+ - [Linkedin](https://linkedin.com/in/pkshreeman)
+ - [Stackoverflow](https://stackoverflow.com/story/pkshreeman)
+ - [Github](https://github.com/pkshreeman)

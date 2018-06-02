@@ -1,9 +1,9 @@
-# Resume of thie project
+# Resume of this project
 ## Designed to help list what language, platforms, and interfaces that is in use for this project.
 
 ### Platforms
-- Travis CI
-- Slack
+- [Travis CI](https://travis-ci.org/)
+- [Slack]
 - Github
 - Waffle
 - Trello
@@ -23,6 +23,6 @@ Check out the listing for social medias [Top 15](https://www.dreamgrow.com/top-1
 - Facebook
 - Twitter
 - Youtube
-- LinkedIN
+- LinkedIn
 - Pinterest
 - Google+
