@@ -47,3 +47,17 @@ I’m comfortable with git, the Linux environment, ES6, webpack, SASS. This past
  - [Linkedin](https://linkedin.com/in/pkshreeman)
  - [Stackoverflow](https://stackoverflow.com/story/pkshreeman)
  - [Github](https://github.com/pkshreeman)
+
+ ### Issues
+
+Issue: Travis CI build failure
+
+Solution (by Miguel T Rivera):
+
+1. Analyzed the build log and noticed it could not recognize ES6 syntax.
+2. Decided it was probably old and that files needed to be updated.
+3. Noticed some files were updated recently and others were 2 years old.
+4. Tried updating the files using git but ran into issues.
+5. Manually replaced each old file with the recent version.
+6. Tested it out and it built successfully.
+7. Submitted a PR to the Bear-Team-09 master repo. 
