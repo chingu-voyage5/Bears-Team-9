@@ -58,6 +58,27 @@ Solution (by Miguel T Rivera):
 2. Decided it was probably old and that files needed to be updated.
 3. Noticed some files were updated recently and others were 2 years old.
 4. Tried updating the files using git but ran into issues.
-5. Manually replaced each old file with the recent version.
+5. Manually replaced/added old files with recent versions:
+
+| Filename                      | Created? | Updated? | Location                  |
+|-------------------------------|----------|----------|---------------------------|
+| .dockerignore                 | Y        | N        | root                      |
+| .gitignore                    | N        | Y        | root                      |
+| .travis.yml                   | N        | Y        | root                      |
+| Changes.md                    | Y        | N        | root                      |
+| Dockerfile                    | N        | Y        | root                      |
+| App.js                        | N        | Y        | /client/modules/App/      |
+| store.js                      | N        | Y        | /client/                  |
+| docker-compose-production.yml | Y        | N        | root                      |
+| package-lock.json             | Y        | N        | root                      |
+| package.json                  | N        | Y        | root                      |
+| post.spec.js                  | N        | Y        | /server/models/__tests__/ |
+| server.js                     | N        | Y        | /server/                  |
+| test-helpers.js               | N        | Y        | /server/util/             |
+| webpack.config.babel.js       | N        | Y        | root                      |
+| webpack.config.dev.js         | N        | Y        | root                      |
+| webpack.config.prod.js        | N        | Y        | root                      |
+| webpack.config.server.js      | N        | Y        | root                      |
+
 6. Tested it out and it built successfully.
 7. Submitted a PR to the Bear-Team-09 master repo. 
